@@ -100,9 +100,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <div class="owl-carousel owl-all">
       <div class="block__35630 text-center">
         <div class="icon mb-0">
-          <span class="flaticon-ferry"></span>
+          <span class="flaticon-warehouse"></span>
         </div>
-        <h3 class="mb-3">Sea Freight</h3>
+        <h3 class="mb-3">Warehouse</h3>
         <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. </p>
       </div>
       <div class="block__35630 text-center">
@@ -119,27 +119,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <h3 class="mb-3">Package Forwarding</h3>
         <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. </p>
       </div>
-      <div class="block__35630 text-center">
-        <div class="icon mb-0">
-          <span class="flaticon-lorry"></span>
-        </div>
-        <h3 class="mb-3">Trucking</h3>
-        <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. </p>
-      </div>
-      <div class="block__35630 text-center">
-        <div class="icon mb-0">
-          <span class="flaticon-warehouse"></span>
-        </div>
-        <h3 class="mb-3">Warehouse</h3>
-        <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. </p>
-      </div>
-      <div class="block__35630 text-center">
-        <div class="icon mb-0">
-          <span class="flaticon-add"></span>
-        </div>
-        <h3 class="mb-3">Delivery</h3>
-        <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. </p>
-      </div>
     </div>
   </div>
 </div>
@@ -149,60 +128,15 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <div class="row mb-5 justify-content-center">
       <div class="col-md-7 text-center">
         <div class="block-heading-1" data-aos="fade-up" data-aos-delay="">
-          <h2>About Us</h2>
-          <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+          <h2>Tentang Kami</h2>
+          <p>Dari Bus Reguler, Pariwisata,Terminal Indihiang adalah kelompok usaha yang siap melayani kebutuhan transportasi anda yang berpusat di Kota Tasikmalaya Jawa Barat, Indonesia dan terus meningkatkan pelayanannya hingga sekarang.</p>
         </div>
       </div>
     </div>
   </div>
 </div>
 
-<div class="site-section bg-light" id="about-section">
-  <div class="container">
-    <div class="row justify-content-center mb-4 block-img-video-1-wrap">
-      <div class="col-md-12 mb-5">
-        <figure class="block-img-video-1" data-aos="fade">
-          <a href="https://vimeo.com/45830194" data-fancybox data-ratio="2">
-          <span class="icon"><span class="icon-play"></span></span>
-          <img src="<?=base_url('assets/templates/site')?>/images/depot_delivery_1.jpg" alt="Image" class="img-fluid">
-        </a>
-        </figure>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-12">
-        <div class="row">
-          <div class="col-6 col-md-6 mb-4 col-lg-0 col-lg-3" data-aos="fade-up" data-aos-delay="">
-            <div class="block-counter-1">
-              <span class="number"><span data-number="19">0</span>+</span>
-              <span class="caption">Years in Service</span>
-            </div>
-          </div>
-          <div class="col-6 col-md-6 mb-4 col-lg-0 col-lg-3" data-aos="fade-up" data-aos-delay="100">
-            <div class="block-counter-1">
-              <span class="number"><span data-number="2332">0</span>+</span>
-              <span class="caption">Employees</span>
-            </div>
-          </div>
-          <div class="col-6 col-md-6 mb-4 col-lg-0 col-lg-3" data-aos="fade-up" data-aos-delay="200">
-            <div class="block-counter-1">
-              <span class="number"><span data-number="231">0</span>+</span>
-              <span class="caption">Covered Countries</span>
-            </div>
-          </div>
-          <div class="col-6 col-md-6 mb-4 col-lg-0 col-lg-3" data-aos="fade-up" data-aos-delay="300">
-            <div class="block-counter-1">
-              <span class="number"><span data-number="827">0</span>+</span>
-              <span class="caption">Couriers</span>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="site-section" id="faq-section">
+<div class="site-section bg-light" id="faq-section">
   <div class="container">
     <div class="row mb-5">
       <div class="block-heading-1 col-12 text-center">
@@ -223,10 +157,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
           <h3 class="text-black h4 mb-4">Possimus aut consequuntur incidunt?</h3>
           <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
         </div>
-        <div class="mb-5" data-aos="fade-up" data-aos-delay="100">
-          <h3 class="text-black h4 mb-4">Dolorum esse odio quas architecto sint?</h3>
-          <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-        </div>
       </div>
 
       <div class="col-lg-6">
@@ -242,16 +172,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
           <h3 class="text-black h4 mb-4">Possimus aut consequuntur incidunt?</h3>
           <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
         </div>
-        <div class="mb-5" data-aos="fade-up" data-aos-delay="100">
-          <h3 class="text-black h4 mb-4">Dolorum esse odio quas architecto sint?</h3>
-          <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-        </div>
       </div>
     </div>
   </div>
 </div>
 
-<div class="block__73694 site-section bg-light border-top" id="why-us-section">
+<div class="block__73694 site-section border-top" id="why-us-section">
   <div class="container">
     <div class="row d-flex no-gutters align-items-stretch">
       <div class="col-12 col-lg-6 block__73422 order-lg-2" style="background-image: url('<?=base_url('assets/templates/site')?>/images/depot_delivery_1.jpg');" data-aos="fade-left" data-aos-delay="">
@@ -272,7 +198,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 </div>
 
 
-<div class="site-section block-13" id="testimonials-section" data-aos="fade">
+<div class="site-section bg-light block-13" id="testimonials-section" data-aos="fade">
   <div class="container">
     <div class="text-center mb-5">
       <div class="block-heading-1">
@@ -332,7 +258,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     </div>
   </div>
 </div>
-<div class="site-section bg-light" id="contact-section">
+<div class="site-section" id="contact-section">
   <div class="container">
     <div class="row">
       <div class="col-12 text-center mb-5" data-aos="fade-up" data-aos-delay="">
